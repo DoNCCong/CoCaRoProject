@@ -11,9 +11,9 @@
 ## 2.2. Running the project
 	- It's very easy to run it.
 	- Step 1: Clicking the Cocaro.dev file
-	![Step2](Image/running_the_project.PNG?raw=true)	
-	- Step 2: Clicking the Compile and Running button
-	![Step2](/Image/running_the_project_2.PNG?raw=true)
+![](<Image/running_the_project.PNG>)	
+	- Step 2: Clicking the Compile and Running button	
+![](<Image/running_the_project_2.PNG>)
 # 4. Link Demo
 	To see how it run. You can go to my channel by submitting the following link:
 	Video on Youtube [Caro](https://www.youtube.com/watch?v=ACS88-aGXAg&list=PLQ2CCbB0dUEvVqunPohu795RpU3rJe5qS)
