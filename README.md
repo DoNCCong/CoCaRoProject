@@ -12,7 +12,8 @@
 - This is the caro project running on console and writed by c++. You can download and run it. Have Fun!
 # 3. Configuring and Running the project
 ## 2.1. Configuring the project
-- I use Devc++ to create the project. So before running it, you muse download and install the devc++ app. 
+- I use Devc++ to create the project. So before running it, you must download and install the devc++ app.
+- Link Download [DevC++](https://sourceforge.net/projects/orwelldevcpp/)
 ## 2.2. Running the project
 - It's very easy to run it.
 - Step 1: Clicking the Cocaro.dev file
