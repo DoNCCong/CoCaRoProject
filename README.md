@@ -25,5 +25,5 @@
 ![](<Image/running_the_project_2.PNG>)
 
 # 4. Link Demo
-- To see how it run. You can go to my channel by submitting the following link:
+- To see how it run. You can go to my channel by clicking the following link:
 - Video on Youtube [Caro](https://www.youtube.com/watch?v=ACS88-aGXAg&list=PLQ2CCbB0dUEvVqunPohu795RpU3rJe5qS)
