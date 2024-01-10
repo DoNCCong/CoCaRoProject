@@ -9,7 +9,7 @@
 ![](Image/Overview_4.PNG)
 
 # 2. What's project ?
-- This is the caro project running on console and writed by c++. You can download and running it. Have Fun!
+- This is the caro project running on console and writed by c++. You can download and run it. Have Fun!
 # 3. Configuring and Running the project
 ## 2.1. Configuring the project
 - I use Devc++ to create the project. So before running it, you muse download and install the devc++ app. 
